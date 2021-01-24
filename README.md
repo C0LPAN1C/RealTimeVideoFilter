@@ -1,2 +1,3 @@
 # RealTimeVideoFilter
-"Real Time Video Filter".
+
+Real-time Video Filter for iOS (obj-c)
