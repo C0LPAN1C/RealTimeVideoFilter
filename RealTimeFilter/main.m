@@ -2,8 +2,8 @@
 //  main.m
 //  RealTimeFilter
 //
-//  Created by Altitude Labs on 28/12/15.
-//  Copyright © 2015 Victor. All rights reserved.
+//  Created by Amit Apollo Barman on 1/2/21.
+//  Copyright © 2021 Apollo SOFTWARE. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
